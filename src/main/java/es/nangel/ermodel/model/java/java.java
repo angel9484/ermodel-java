@@ -1,4 +1,4 @@
-package es.nangel.ermodel.java;
+package es.nangel.ermodel.model.java;
 
 import es.nangel.ermodel.model.Entity;
 
